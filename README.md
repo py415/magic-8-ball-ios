@@ -15,6 +15,7 @@ Magic 8 Ball is an app used for fortune telling or seeking advice. You can ask t
 ### User Stories
 
 - [X] User can click the "Ask" button to return an answer to their question.
+- [X] User can shake their phone to answer their question.
 
 ## App Walkthrough
 
