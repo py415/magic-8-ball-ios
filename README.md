@@ -21,7 +21,7 @@ Magic 8 Ball is an app used for fortune telling or seeking advice. You can ask t
 
 Here's a GIF of how the app works:
 
-<img src="https://github.com/py415/app-resources/blob/master/ios/ios-magic-8-ball.gif" width=250>
+<img src="https://raw.githubusercontent.com/py415/app-resources/master/ios/ios-magic-8-ball.gif" width="250" />
 
 ## Credits
 
